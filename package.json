@@ -18,7 +18,7 @@
     "dependencies": {
         "accessibility-developer-tools": "2.12.0",
         "axe-core": "4.1.1",
-        "brace-expansion": "2.0.0",
+        "brace-expansion": "2.0.2",
         "infusion": "3.0.0-dev.20201113T153152Z.32176dcbe.FLUID-6145",
         "selenium-webdriver": "3.6.0"
     },
